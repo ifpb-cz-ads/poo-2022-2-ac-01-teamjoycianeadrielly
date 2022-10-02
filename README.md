@@ -11,7 +11,7 @@ JRE - Ambiente de Execução Java
 JDK - Kit de Desenvolvimento Java.
 
 questão 03
-{
+public class quest03 {
     public static void main(String[] args) {
         System.out.println("Terminei a primeira aula com programa java");
     }
