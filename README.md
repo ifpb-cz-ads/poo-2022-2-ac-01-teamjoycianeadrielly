@@ -15,7 +15,7 @@ public class quest03 {
     public static void main(String[] args) {
         System.out.println("Terminei a primeira aula com programa java");
     }
-}
+}.
 
 questão 04
 Erro: Não foi possível localizar nem carregar a classe principal quest03
@@ -26,7 +26,7 @@ Causada por: java.lang.ClassNotFoundException: quest03.
 questão 5
 Erro: o método main não foi encontrado na classe quest03; defina o método main como:
    public static void main(String[] args)
-ou uma classe de aplicativo JavaFX deve expandir javafx.application.Application
+ou uma classe de aplicativo JavaFX deve expandir javafx.application.Application.
 
 
 questão 6
