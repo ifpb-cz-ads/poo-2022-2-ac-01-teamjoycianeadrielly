@@ -5,6 +5,13 @@ Questão 01
 Máquina Virtual Java é apenas uma parte do software Java que está envolvida na execução de um aplicativo. A Máquina Virtual Java é criada logo no download do software Java, parte do JRE, e ajuda a executar aplicativos Java.
 
 
+Questão 02
+Java Runtime Environment é um plug-in necessário para a execução de programas Java. O Java Development Kit é necessário para desenvolver aplicativos java. O JRE é menor que o JDK, portanto, ele necessita de menos espaço em disco.
+JRE - Ambiente de Execução Java
+JDK - Kit de Desenvolvimento Java.
+
+
+
 questão 5
 Erro: o método main não foi encontrado na classe quest03; defina o método main como:
    public static void main(String[] args)
