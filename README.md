@@ -17,6 +17,10 @@ public class quest03 {
     }
 }
 
+questão 04
+Erro: Não foi possível localizar nem carregar a classe principal quest03
+Causada por: java.lang.ClassNotFoundException: quest03.
+
 
 
 questão 5
