@@ -10,6 +10,13 @@ Java Runtime Environment é um plug-in necessário para a execução de programa
 JRE - Ambiente de Execução Java
 JDK - Kit de Desenvolvimento Java.
 
+questão 03
+{
+    public static void main(String[] args) {
+        System.out.println("Terminei a primeira aula com programa java");
+    }
+}
+
 
 
 questão 5
